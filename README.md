@@ -7,12 +7,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denrybaakov&theme=github_dark)
 
 
- <h3>Меня зовут Денис, я JavaScript разработчик. </h3>
+ <h3>Меня зовут Денис, я Frontend-developer. </h3>
  
- - :dog: - Люблю собак
+- :dog: - Люблю собак
 - :mountain_bicyclist: - За активный отдых
 - :chess_pawn: - Играю в Шахматы
-- :atom_symbol: - Сочиняю произведения на React/Redux
+- :computer: - Мой стек: HTML/CSS JavaScript React/Redux/Saga 
+<!-- - :atom_symbol: -  React/Redux -->
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2340C463&size=28&duration=6004&multiline=true&width=500&height=90&lines=Hi+there%2C+my+name+is+Denis.+;I+am+a+frontend+developer.)](https://git.io/typing-svg) -->
