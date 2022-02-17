@@ -12,7 +12,7 @@
 - :dog: - Люблю собак
 - :mountain_bicyclist: - За активный отдых
 - :chess_pawn: - Играю в Шахматы
-- :computer: - Мой стек: HTML/CSS JavaScript React/Redux/Saga 
+- :computer: - Мой стек: HTML/SCSS JavaScript React/Redux/Saga 
 <!-- - :atom_symbol: -  React/Redux -->
 
 
